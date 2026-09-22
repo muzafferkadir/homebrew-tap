@@ -1,8 +1,8 @@
 class ClaudeCodeTokenBar < Formula
-  desc "Render Claude Code token usage, limits, cost, and Git state"
+  desc "Render Claude Code token usage, limits, cost, cache warmth, and Git state"
   homepage "https://github.com/muzafferkadir/claude-code-token-bar"
-  url "https://github.com/muzafferkadir/claude-code-token-bar/archive/refs/tags/v1.0.0.tar.gz"
-  sha256 "a5bb00114986137bc735371403a297a547d393cc1602e4104ed6cee4d43db788"
+  url "https://github.com/muzafferkadir/claude-code-token-bar/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "56ef3c537ea0c8968f7c41eee59332159d13c5071d0635cb49e8f1d3e624b705"
   license "MIT"
 
   depends_on "jq"
